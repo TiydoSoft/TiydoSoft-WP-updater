@@ -67,7 +67,7 @@ function ts_schedule_update_check() {
     }
 }
 /**
- * for debug :)
+ * for debug :) 
  */
 
 // // Schedule the update check to run every 12 hours

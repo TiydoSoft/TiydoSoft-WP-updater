@@ -14,5 +14,5 @@ $ts_github_repository = 'your-github-repository-name';
 $ts_github_access_token = 'your-github-access-token';
     
 require plugin_dir_path( __FILE__ ) . '/updater/ts-plugin-updater.php'; //use it for plugin updater! :)
-// require get_template_directory() . '/updater/ts-theme-updater.php'; //use it for theme updater! :)
+require get_template_directory() . '/updater/ts-theme-updater.php'; //use it for theme updater! :)
 
